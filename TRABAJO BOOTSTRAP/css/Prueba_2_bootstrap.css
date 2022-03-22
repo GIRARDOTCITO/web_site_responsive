@@ -1,0 +1,28 @@
+#header{
+    background-color: cadetblue;
+    border: 2px; color: aquamarine;
+}
+#objetivo1{
+    background-color: brown;
+    border: 2px; color:chartreuse;
+    height: 150px;
+}
+#objetivo2{
+    background-color: chocolate;
+    border: 2px; color: cornsilk;
+    height: 150px;
+}
+#objetivo3{
+    background-color: chartreuse;
+    border: 2px; color: black;
+    height: 150px;
+    
+}
+#footer1{
+    background-color: coral;
+    border: 0; color: darkgray;
+}
+#footer2{
+    background-color: darkgoldenrod;
+    border: 0; color: blue;
+}

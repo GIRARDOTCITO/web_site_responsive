@@ -1,0 +1,42 @@
+#header{
+    background-color: burlywood;
+    border: 0; color:black;
+    height: 100px;
+    text-align: center;
+}
+#articulo1{
+    background-color: blueviolet;
+    border:0;color:black;
+    height: 320px;
+    text-align: center;
+}
+#articulo4{
+    background-color: chartreuse;
+    border: 2px; color: black;
+    float: right;
+    text-align: center;
+
+}
+
+
+
+#articulo2{
+    background-color: darkgreen;
+    border: 0 ; color:black;
+    height: 100px;
+    text-align: center;
+}
+
+#articulo3{
+    background-color: coral;
+    border: 0; color: black;
+    height: 100px;
+    text-align: center;
+}
+
+#footer{
+    background-color: cornflowerblue;
+    border: 0; color: black;
+    height: 100px;
+    text-align: center;
+}
