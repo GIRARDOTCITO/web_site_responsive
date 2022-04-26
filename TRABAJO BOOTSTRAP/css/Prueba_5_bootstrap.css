@@ -1,0 +1,20 @@
+body{
+    background-image: url("../img/fondo\ pagina.jpg");
+    background-repeat: repeat-y;
+}
+.tabla1{
+
+    text-align: left;
+   
+        
+    
+        
+    
+}
+.table2{
+    text-align: center;
+}
+.table3{
+    text-align: right;
+
+}

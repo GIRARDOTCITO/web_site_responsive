@@ -1,0 +1,20 @@
+#cols1{
+    background-color: chartreuse;
+    border: 2px; color: darkorange;
+}
+#cols2{
+    background-color: crimson;
+    border: 2px; color:cornsilk
+}
+#cols3{
+    background-color: darkblue;
+    border: 2px; color: darkgray;
+}
+#cols4{
+    background-color: coral;
+    border: 2px; color: darkmagenta;
+}
+.color{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
