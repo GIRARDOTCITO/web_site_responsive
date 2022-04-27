@@ -1,3 +1,8 @@
+/*Centro De Biotecnologia Agropecuaria
+    Analisis y Desarrollo de Software
+    Ficha: 2470980
+    Autor: Juan Sebastián Girardot Antonio 
+    Fecha de creación: 26/Abril/2022*/
 body{
     background-image: url("../img/fondo\ pagina.jpg");
     background-repeat: repeat-y;
@@ -18,3 +23,4 @@ body{
     text-align: right;
 
 }
+/*Damos un fondo de pantalla con una imagen, esta imagen tiene una alta calidad para que este sobre toda la pagina, y damos text-align: center, para que cada texto de las cajas quede centrado.*/
